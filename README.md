@@ -23,7 +23,8 @@ To build and run your app, follow these steps:
 
 ![Screen Shot 2021-12-11 at 11 27 52](https://user-images.githubusercontent.com/69804490/145680161-d496e8bd-0aba-4289-96d8-6b91ba3bfc84.png)
 
-- The app has authentication. Both the user and password are "usuario"
+- As of today, the username and password are statically assigned.
+
 - After authenticating, you can see the list of books or click the 3 dots on top to add a new one.
 
 ![Screen Shot 2021-12-11 at 11 31 18](https://user-images.githubusercontent.com/69804490/145680262-ef99896b-82bd-41d5-9409-ea52ca0a4c02.png)
@@ -38,6 +39,5 @@ To build and run your app, follow these steps:
 1. Fork it
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -m 'Add some feature')
-4. Run the linter (ruby lint.rb').
-5. Push your branch (git push origin my-new-feature)
-6. Create a new Pull Request
+4. Push your branch (git push origin my-new-feature)
+5. Create a new Pull Request
