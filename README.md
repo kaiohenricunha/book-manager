@@ -20,13 +20,16 @@ To build and run your app, follow these steps:
 ## Using the app
 
 - Click the Livros app icon.
+
 ![Screen Shot 2021-12-11 at 11 27 52](https://user-images.githubusercontent.com/69804490/145680161-d496e8bd-0aba-4289-96d8-6b91ba3bfc84.png)
 
 - The app has authentication. Both the user and password are "usuario"
 - After authenticating, you can see the list of books or click the 3 dots on top to add a new one.
+
 ![Screen Shot 2021-12-11 at 11 31 18](https://user-images.githubusercontent.com/69804490/145680262-ef99896b-82bd-41d5-9409-ea52ca0a4c02.png)
 
 - To add a new book you need too add the book's title, author and publisher.
+
 ![Screen Shot 2021-12-11 at 11 32 05](https://user-images.githubusercontent.com/69804490/145680290-d0404c7d-13e9-4a32-ba20-448d7b226645.png)
 
 
